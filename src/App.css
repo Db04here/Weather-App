@@ -1,0 +1,17 @@
+#root {
+display: flex;
+margin: 0px;
+padding: 0px .5rem;
+justify-content: center;
+background-image: url("https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+color: white;
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+}
+
+body{
+  margin: 0px;
+  width: 100vw;
+  height: 100vh;
+}
