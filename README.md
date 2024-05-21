@@ -9,3 +9,8 @@ Currently, two official plugins are available:
 
 
 url - [https://weather-app-n60y.onrender.com](url)
+
+git add README.md
+git commit -m "Add deployed project link to README"
+git push origin main
+
