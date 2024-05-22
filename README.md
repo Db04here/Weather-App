@@ -1,15 +1,17 @@
-# React + Vite
+Weather App
+This is a simple weather app built with React, Vite, and MUI Core(Material-UI).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Technologies used :
+1.REACT
+2.VITE
+3.MATERIAL-UI
+4.HTML
+5.JAVASCRIPT
+6.CSS
 
-Currently, two official plugins are available:
+Author : Bindu Dandi
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
-
-url- https://weather-app-n60y.onrender.com
+URL- https://weather-app-n60y.onrender.com
 
 
 
